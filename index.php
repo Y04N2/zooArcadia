@@ -9,7 +9,7 @@
 </head>
 <nav class="navbar navbar-expland-lg bg-light">
    <div class="container-fluid>
-<img src="/asset/picture/logo.svg">
+<img src=" asset/picture/logo.svg">
    </div>
    <div class="container-fluid">
       <a class="navbar-brand href=" #">Acceuil</a>
