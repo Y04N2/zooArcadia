@@ -1,0 +1,13 @@
+img {
+   width: 62px;
+   height: 67px;
+   object-fit: contain;
+}
+
+button {
+   background-color: rgba(154, 208, 139, 1);
+}
+div{
+   display: inline-block;
+   justify-content: flex-end;
+}
