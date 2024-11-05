@@ -1,13 +1,14 @@
 img {
-   width: 62px;
-   height: 67px;
+   width: 121px;
+   height: 131px;
    object-fit: contain;
 }
 
 button {
    background-color: rgba(154, 208, 139, 1);
+   border: none;
 }
-div{
-   display: inline-block;
-   justify-content: flex-end;
+
+nav {
+   padding: 10px 20px;
 }
