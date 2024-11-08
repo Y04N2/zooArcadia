@@ -9,12 +9,15 @@ button {
    border: none;
 }
 
-
+@font-face {
+   font-family: 'titreZoo';
+   src: url('/asset/fonts/chalkzone/Chalkzone.ttf')format('truetype');
+}
 
 #titre {
    color: brown;
-   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   font-size: xx-large;
+   font-family: 'titreZoo';
+   
    
 }
 
