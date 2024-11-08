@@ -11,7 +11,7 @@ button {
 
 @font-face {
    font-family: 'chalkzone';
-   src: url('asset/font/chalkzone') format('truetype');
+   src: url('asset/') format('truetype');
 }
 #titre {
    color: brown;
