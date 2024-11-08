@@ -9,6 +9,16 @@ button {
    border: none;
 }
 
+@font-face {
+   font-family: 'chalkzone';
+   src: url('asset/font/chalkzone') format('truetype');
+}
+#titre {
+   color: brown;
+   font-family: 'chalzone' ,Arial, sans-serif;
+   font-size: 50%;
+}
+
 nav {
    padding: 10px 20px;
    background-color: rgb(201, 240, 201);
