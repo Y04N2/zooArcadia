@@ -9,14 +9,13 @@ button {
    border: none;
 }
 
-@font-face {
-   font-family: 'chalkzone';
-   src: url('asset/') format('truetype');
-}
+
+
 #titre {
    color: brown;
-   font-family: 'chalzone' ,Arial, sans-serif;
-   font-size: 50%;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: xx-large;
+   
 }
 
 nav {
