@@ -15,8 +15,8 @@
       <div>
          <img src="asset/picture/logo.svg" alt="Logo Zoo Arcadia">
       </div>
-      <div id="titre">
-         <h1>ZOO ARCADIA</h1>
+      <div>
+         <h1 class="titreCentral">ZOO ARCADIA</h1> <!--taille titre à agrandire-->
       </div>
       <button>
          <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">

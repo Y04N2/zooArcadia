@@ -14,9 +14,10 @@ button {
    src: url('/asset/fonts/chalkzone/Chalkzone.ttf')format('truetype');
 }
 
-#titre {
+.titreCentral {
    color: brown;
    font-family: 'titreZoo';
+   font-size: 4.5rem;
    
    
 }
