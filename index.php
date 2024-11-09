@@ -69,18 +69,22 @@
          </div>
       </div>
 
-      <div class="card text-center mb-3" style="width: 18rem;">
+      <div class="card mb-3" style="width: 18rem;">
          <div class="card-body">
-            <h5 class="card-title">Special title treatment</h5>
-            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <img class="img-profile" src="/asset/picture/profiles/karsten.jpg">
+            <p class="publication-date">Publié le 18/09/2024</p>
+            <h5 class="card-title">Genial</h5>
+            <p class="card-text">L'organisation du zoo est impeccable, ce qui rend la visite à la fois agréable et instructive. </p>
 
          </div>
       </div>
 
-      <div class="card text-end" style="width: 18rem;">
+      <div class="card mb-3" style="width: 18rem;">
          <div class="card-body">
-            <h5 class="card-title">Special title treatment</h5>
-            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <img class="img-profile" src="/asset/picture/profiles/adrien-lopes.jpg">
+            <p class="publication-date">Publié le 01/08/2024</p>
+            <h5 class="card-title">Super</h5>
+            <p class="card-text">Visiter le zoo a été une expérience tout simplement géniale ! Dès notre arrivée, nous avons été accueillis par une ambiance joyeuse et animée.</p>
 
          </div>
       </div>
