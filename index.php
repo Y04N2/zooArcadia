@@ -56,6 +56,8 @@
             <span class="visually-hidden">Next</span>
          </button>
       </div>
+
+      <!--card avec header et image dans le header-->
    
    <script type="text/javascript" src="asset/lib/bootstrap.min.js"></script>
 </body>
