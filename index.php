@@ -38,13 +38,13 @@
          </div>
          <div class="carousel-inner">
             <div class="carousel-item active">
-               <img src="/asset/picture/Animaux/LION/lion2.jpg" class="d-block w-100" alt="lion">
+               <img src="/asset/picture/Animaux/LION/lion5.jpg" class="d-block w-100 carousel-image" alt="Lion">
             </div>
             <div class="carousel-item">
-               <img src="/asset/picture/Animaux/RAPACE/chouettedesneige1.jpg" class="d-block w-100" alt="...">
+               <img src="/asset/picture/Animaux/RAPACE/chouettedesneige1.jpg" class="d-block w-100 carousel-image" alt="Chouette des neige">
             </div>
             <div class="carousel-item">
-               <img src="/asset/picture/Animaux/LOUP/loup5.jpg" class="d-block w-100" alt="...">
+               <img src="/asset/picture/Animaux/LOUP/loup5.jpg" class="d-block w-100 carousel-image" alt="Loup">
             </div>
          </div>
          <button class="carousel-control-prev" type="button" data-bs-target="#carouselIndicators" data-bs-slide="prev">
