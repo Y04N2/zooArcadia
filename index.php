@@ -28,7 +28,7 @@
 </header>
 
 <body>
-   <!--carousel--> <!--probleme de taille dimage a reglé-->
+   <!--carousel--> 
    
       <div id="carouselIndicators" class="carousel slide">
          <div class="carousel-indicators">
