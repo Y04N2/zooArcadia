@@ -58,7 +58,7 @@
    </div>
 
    <!--card avec header et image dans le header-->
-   <div class=""><!--div pour les chevron ou bar de defilement-->
+   <div class="container-fluid"><!--div pour les chevrons ou bar de defilement-->
       <div class="card mb-3" style="width: 18rem;">
          <div class="card-body">
             <img class="img-profile" src="/asset/picture/profiles/profile1.jpg">
@@ -89,6 +89,11 @@
          </div>
       </div>
    </div>
+
+<!--Blocs des services-->
+<div class="b-service mb-3 container-fluid d-flex justify-content-between"><!--alignement du bloc bleu-->
+
+</div>
    <script type="text/javascript" src="asset/lib/bootstrap.min.js"></script>
 </body>
 
