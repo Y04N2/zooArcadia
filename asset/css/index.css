@@ -13,6 +13,7 @@
 button {
    background-color: rgba(154, 208, 139, 1);
    border: none;
+   
 }
 
 @font-face {
@@ -30,7 +31,7 @@ button {
 
 nav {
    padding: 10px 20px;
-   background-color: rgb(201, 240, 201);
+   background-color: rgb(255, 255, 255);
 }
 
 .card {
